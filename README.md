@@ -1,2 +1,2 @@
-# producao_oleo_gas
-Produção atual de Óleo e Gás por Bacia Sedimentar brasileira
+# Produção de Óleo e Gás
+Produção atual de Óleo e Gás por Bacia Sedimentar Brasileira
